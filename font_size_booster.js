@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         2
+// @name         Font Size Booster
 // @namespace    Violentmonkey
 // @version      1.0
 // @description  Increases font size by fixed pixels across DOM and Shadow DOM with debounced processing
